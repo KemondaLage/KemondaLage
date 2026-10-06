@@ -63,7 +63,7 @@ I am a passionate developer focused on building scalable, user-friendly, and mod
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -108,7 +108,7 @@ I am a passionate developer focused on building scalable, user-friendly, and mod
 
 ---
 
-## Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/KemondaLage">
@@ -126,10 +126,6 @@ I am a passionate developer focused on building scalable, user-friendly, and mod
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KemondaLage&style=flat-square&color=00d9ff" alt="Profile Views" />
-</p>
 
 <p align="center">
   <strong>Made with passion by Kemonda Lage</strong>
